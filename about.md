@@ -5,4 +5,4 @@ permalink: /about/
 ---
 <div class="mt50"></div>
 
-這個網站存放我的筆記、 codes，歡迎你們來逛逛。
+這個網站存放我的筆記、 codes，歡迎大家來逛逛。
